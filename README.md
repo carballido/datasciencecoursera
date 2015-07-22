@@ -1,1 +1,2 @@
 # datasciencecoursera
+Este archivo fue hecho como parte de las tareas de un curso en coursera. Creo que he seguido todas las instrucciones al pie de la letra y todo aparentemente está bien, pero aún no le hallo mucho sentido a todo esto; espero que a partir del próximo curso de la especialización comience yo a entender un poco más. Me gustaría ver a alguien en "vivo y en directo" usando esta herramienta. Mientras tanto estoy haciendo cosas, jugando con la información de la "ayuda" de github.
